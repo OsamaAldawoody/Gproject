@@ -1,0 +1,13 @@
+D:\projects\VSprojects\Gproject\Gproject\bin\Debug\Gproject.exe.config
+D:\projects\VSprojects\Gproject\Gproject\bin\Debug\Gproject.exe
+D:\projects\VSprojects\Gproject\Gproject\bin\Debug\Gproject.pdb
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.csprojAssemblyReference.cache
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.Form1.resources
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.Properties.Resources.resources
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.csproj.GenerateResource.cache
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.csproj.CoreCompileInputs.cache
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.exe
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.pdb
+D:\projects\VSprojects\Gproject\Gproject\bin\Debug\Newtonsoft.Json.dll
+D:\projects\VSprojects\Gproject\Gproject\bin\Debug\Newtonsoft.Json.xml
+D:\projects\VSprojects\Gproject\Gproject\obj\Debug\Gproject.csproj.CopyComplete
